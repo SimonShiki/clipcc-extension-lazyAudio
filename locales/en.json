@@ -1,0 +1,21 @@
+{
+    "jasonxu.lazyAudio.name": "Lazy Load",
+    "jasonxu.lazyAudio.description": "Load audio files.",
+    "jasonxu.lazyAudio.lazyAudio.messageid": "Lazy Load",
+    "jasonxu.lazyAudio.loadAudio": "load [ID] to container [R]",
+    "jasonxu.lazyAudio.play": "play audio in container [R]",
+    "jasonxu.lazyAudio.setVolume": "Set the volume of the container [R] to [VOL]",
+    "jasonxu.lazyAudio.setGlobalVolume": "Set global volume to [VOL]",
+    "jasonxu.lazyAudio.state": "get state of container [R]",
+    "jasonxu.lazyAudio.isPlaying": "is container [R] playing?",
+    "jasonxu.lazyAudio.playFrom": "play audio in container [R] from the [SEC] second",
+    "jasonxu.lazyAudio.pause": "pause audio in container [R]",
+    "jasonxu.lazyAudio.stop": "stop playing audio in container [R]", 
+    "jasonxu.lazyAudio.setSeek": "set seek of audio in container [R] to [SEC]", 
+    "jasonxu.lazyAudio.setRate": "set rate of audio in container [R] to [RATE]", 
+    "jasonxu.lazyAudio.seek": "seek of audio in container [R]", 
+    "jasonxu.lazyAudio.duration": "duration of audio in container [R]",
+    "jasonxu.lazyAudio.true": "true",
+    "jasonxu.lazyAudio.false": "false",
+    "jasonxu.lazyAudio.loop": "set loop playback of files in container [R] to [TF]"
+}

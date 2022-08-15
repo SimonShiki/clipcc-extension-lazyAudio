@@ -1,0 +1,21 @@
+{
+    "jasonxu.lazyAudio.name": "懒加载",
+    "jasonxu.lazyAudio.description": "加载音频文件",
+    "jasonxu.lazyAudio.lazyAudio.messageid": "懒加载",
+    "jasonxu.lazyAudio.loadAudio": "加载 [ID] 到容器 [R] 中",
+    "jasonxu.lazyAudio.play": "播放容器 [R] 中的文件",
+    "jasonxu.lazyAudio.setVolume": "设置容器 [R] 的音量为 [VOL]",
+    "jasonxu.lazyAudio.state": "获取容器 [R] 的状态",
+    "jasonxu.lazyAudio.setGlobalVolume": "将全局音量设为 [VOL]",
+    "jasonxu.lazyAudio.isPlaying": "容器 [R] 正在播放?",
+    "jasonxu.lazyAudio.playFrom": "从第 [SEC] 秒开始播放容器 [R] 中的文件",
+    "jasonxu.lazyAudio.pause": "暂停播放容器 [R] 中的文件",
+    "jasonxu.lazyAudio.stop": "停止播放容器 [R] 中的文件", 
+    "jasonxu.lazyAudio.setSeek": "将容器 [R] 中文件的播放进度设为 [SEC] 秒", 
+    "jasonxu.lazyAudio.setRate": "将容器 [R] 中文件的播放速率设为 [RATE] %", 
+    "jasonxu.lazyAudio.seek": "容器 [R] 中文件的播放进度", 
+    "jasonxu.lazyAudio.duration": "容器 [R] 中文件的长度",
+    "jasonxu.lazyAudio.true": "真",
+    "jasonxu.lazyAudio.false": "假",
+    "jasonxu.lazyAudio.loop": "设置容器 [R] 中文件的循环播放属性为 [TF]"
+}
